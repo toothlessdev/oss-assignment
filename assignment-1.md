@@ -7,6 +7,7 @@
 |컴퓨터학부 심화컴퓨터전공|2020113486|김대건|[toothlessdev](https://github.com/toothlessdev)|
 |컴퓨터학부 심화컴퓨터전공|2020115983|최기영|[gogumalatte](https://github.com/gogumalatte)|
 |컴퓨터학부 글로벌SW융합전공|2021112334|김가희|[zzkim](https://github.com/zzkim)|
+|컴퓨터학부 심화컴퓨터전공|2020116651|조현준|[HyunJunCho00](https://github.com/HyunJunCho00)|
 
 ## 📖 제목
 
